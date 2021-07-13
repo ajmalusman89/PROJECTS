@@ -12,3 +12,24 @@ print (my_data)
 my_data.get("Name")
 print(my_data.get("Name"))
 print(my_data["Name"])
+subjects=[85,90,85,40,92]
+sum=0
+fail=0
+for item in subjects:
+    print(item)
+    if item<45:
+        fail=1
+    sum=sum+item
+print (sum)
+print(len(subjects))
+avg=sum/len(subjects)
+print(avg)
+print (fail)
+if fail==1:
+    print("Fail")
+elif avg>=75:
+    print("distiction")
+else:
+    print("Pass")
+    
+mark_cutoff=45
