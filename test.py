@@ -1,1 +1,1 @@
-print("mynameisajmal")
+from typing import List

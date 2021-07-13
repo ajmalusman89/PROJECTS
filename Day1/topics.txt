@@ -1,0 +1,25 @@
+global variable:  variables cane be recalled throughout the program
+local: within the block
+
+Data Types
+
+Simple,
+
+List( mutables)
+
+Len( total number of values)
+
+
+Cannot replace the values(immutables)
+
+TUPLES: once its written, will be the same  cannot be changed.( values whioch are always connected using here, )
+
+Membership
+will check the status according to reqesut and run.
+
+Iteration
+checking listed items one by one.
+
+Advanced
+Dict
+Set
